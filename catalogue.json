@@ -1,0 +1,11 @@
+{
+  "id": "devarimWordsScripts",
+  "title": "devarimWordsScripts",
+  "oneLiner": "Analysis of biblical word counts introduction and type",
+  "demoUrl": "https://github.com/kylemath/bibCount",
+  "screenshot": "https://raw.githubusercontent.com/kylemath/bibCount/main/screenshot.png",
+  "kind": "project",
+  "categories": [],
+  "tags": [],
+  "status": "published"
+}

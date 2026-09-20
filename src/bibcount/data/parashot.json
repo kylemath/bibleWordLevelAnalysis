@@ -1,0 +1,542 @@
+[
+  {
+    "id": 1,
+    "en": "Bereshit",
+    "he": "בראשית",
+    "book_id": 1,
+    "start_chapter": 1,
+    "start_verse": 1,
+    "end_chapter": 6,
+    "end_verse": 8
+  },
+  {
+    "id": 2,
+    "en": "Noach",
+    "he": "נח",
+    "book_id": 1,
+    "start_chapter": 6,
+    "start_verse": 9,
+    "end_chapter": 11,
+    "end_verse": 32
+  },
+  {
+    "id": 3,
+    "en": "Lech-Lecha",
+    "he": "לך לך",
+    "book_id": 1,
+    "start_chapter": 12,
+    "start_verse": 1,
+    "end_chapter": 17,
+    "end_verse": 27
+  },
+  {
+    "id": 4,
+    "en": "Vayera",
+    "he": "וירא",
+    "book_id": 1,
+    "start_chapter": 18,
+    "start_verse": 1,
+    "end_chapter": 22,
+    "end_verse": 24
+  },
+  {
+    "id": 5,
+    "en": "Chayei Sara",
+    "he": "חיי שרה",
+    "book_id": 1,
+    "start_chapter": 23,
+    "start_verse": 1,
+    "end_chapter": 25,
+    "end_verse": 18
+  },
+  {
+    "id": 6,
+    "en": "Toldot",
+    "he": "תולדות",
+    "book_id": 1,
+    "start_chapter": 25,
+    "start_verse": 19,
+    "end_chapter": 28,
+    "end_verse": 9
+  },
+  {
+    "id": 7,
+    "en": "Vayetzei",
+    "he": "ויצא",
+    "book_id": 1,
+    "start_chapter": 28,
+    "start_verse": 10,
+    "end_chapter": 32,
+    "end_verse": 3
+  },
+  {
+    "id": 8,
+    "en": "Vayishlach",
+    "he": "וישלח",
+    "book_id": 1,
+    "start_chapter": 32,
+    "start_verse": 4,
+    "end_chapter": 36,
+    "end_verse": 43
+  },
+  {
+    "id": 9,
+    "en": "Vayeshev",
+    "he": "וישב",
+    "book_id": 1,
+    "start_chapter": 37,
+    "start_verse": 1,
+    "end_chapter": 40,
+    "end_verse": 23
+  },
+  {
+    "id": 10,
+    "en": "Miketz",
+    "he": "מקץ",
+    "book_id": 1,
+    "start_chapter": 41,
+    "start_verse": 1,
+    "end_chapter": 44,
+    "end_verse": 17
+  },
+  {
+    "id": 11,
+    "en": "Vayigash",
+    "he": "ויגש",
+    "book_id": 1,
+    "start_chapter": 44,
+    "start_verse": 18,
+    "end_chapter": 47,
+    "end_verse": 27
+  },
+  {
+    "id": 12,
+    "en": "Vayechi",
+    "he": "ויחי",
+    "book_id": 1,
+    "start_chapter": 47,
+    "start_verse": 28,
+    "end_chapter": 50,
+    "end_verse": 26
+  },
+  {
+    "id": 13,
+    "en": "Shemot",
+    "he": "שמות",
+    "book_id": 2,
+    "start_chapter": 1,
+    "start_verse": 1,
+    "end_chapter": 6,
+    "end_verse": 1
+  },
+  {
+    "id": 14,
+    "en": "Vaera",
+    "he": "וארא",
+    "book_id": 2,
+    "start_chapter": 6,
+    "start_verse": 2,
+    "end_chapter": 9,
+    "end_verse": 35
+  },
+  {
+    "id": 15,
+    "en": "Bo",
+    "he": "בא",
+    "book_id": 2,
+    "start_chapter": 10,
+    "start_verse": 1,
+    "end_chapter": 13,
+    "end_verse": 16
+  },
+  {
+    "id": 16,
+    "en": "Beshalach",
+    "he": "בשלח",
+    "book_id": 2,
+    "start_chapter": 13,
+    "start_verse": 17,
+    "end_chapter": 17,
+    "end_verse": 16
+  },
+  {
+    "id": 17,
+    "en": "Yitro",
+    "he": "יתרו",
+    "book_id": 2,
+    "start_chapter": 18,
+    "start_verse": 1,
+    "end_chapter": 20,
+    "end_verse": 23
+  },
+  {
+    "id": 18,
+    "en": "Mishpatim",
+    "he": "משפטים",
+    "book_id": 2,
+    "start_chapter": 21,
+    "start_verse": 1,
+    "end_chapter": 24,
+    "end_verse": 18
+  },
+  {
+    "id": 19,
+    "en": "Terumah",
+    "he": "תרומה",
+    "book_id": 2,
+    "start_chapter": 25,
+    "start_verse": 1,
+    "end_chapter": 27,
+    "end_verse": 19
+  },
+  {
+    "id": 20,
+    "en": "Tetzaveh",
+    "he": "תצוה",
+    "book_id": 2,
+    "start_chapter": 27,
+    "start_verse": 20,
+    "end_chapter": 30,
+    "end_verse": 10
+  },
+  {
+    "id": 21,
+    "en": "Ki Tisa",
+    "he": "כי תשא",
+    "book_id": 2,
+    "start_chapter": 30,
+    "start_verse": 11,
+    "end_chapter": 34,
+    "end_verse": 35
+  },
+  {
+    "id": 22,
+    "en": "Vayakhel",
+    "he": "ויקהל",
+    "book_id": 2,
+    "start_chapter": 35,
+    "start_verse": 1,
+    "end_chapter": 38,
+    "end_verse": 20
+  },
+  {
+    "id": 23,
+    "en": "Pekudei",
+    "he": "פקודי",
+    "book_id": 2,
+    "start_chapter": 38,
+    "start_verse": 21,
+    "end_chapter": 40,
+    "end_verse": 38
+  },
+  {
+    "id": 24,
+    "en": "Vayikra",
+    "he": "ויקרא",
+    "book_id": 3,
+    "start_chapter": 1,
+    "start_verse": 1,
+    "end_chapter": 5,
+    "end_verse": 26
+  },
+  {
+    "id": 25,
+    "en": "Tzav",
+    "he": "צו",
+    "book_id": 3,
+    "start_chapter": 6,
+    "start_verse": 1,
+    "end_chapter": 8,
+    "end_verse": 36
+  },
+  {
+    "id": 26,
+    "en": "Shmini",
+    "he": "שמיני",
+    "book_id": 3,
+    "start_chapter": 9,
+    "start_verse": 1,
+    "end_chapter": 11,
+    "end_verse": 47
+  },
+  {
+    "id": 27,
+    "en": "Tazria",
+    "he": "תזריע",
+    "book_id": 3,
+    "start_chapter": 12,
+    "start_verse": 1,
+    "end_chapter": 13,
+    "end_verse": 59
+  },
+  {
+    "id": 28,
+    "en": "Metzora",
+    "he": "מצורע",
+    "book_id": 3,
+    "start_chapter": 14,
+    "start_verse": 1,
+    "end_chapter": 15,
+    "end_verse": 33
+  },
+  {
+    "id": 29,
+    "en": "Achrei Mot",
+    "he": "אחרי מות",
+    "book_id": 3,
+    "start_chapter": 16,
+    "start_verse": 1,
+    "end_chapter": 18,
+    "end_verse": 30
+  },
+  {
+    "id": 30,
+    "en": "Kedoshim",
+    "he": "קדושים",
+    "book_id": 3,
+    "start_chapter": 19,
+    "start_verse": 1,
+    "end_chapter": 20,
+    "end_verse": 27
+  },
+  {
+    "id": 31,
+    "en": "Emor",
+    "he": "אמור",
+    "book_id": 3,
+    "start_chapter": 21,
+    "start_verse": 1,
+    "end_chapter": 24,
+    "end_verse": 23
+  },
+  {
+    "id": 32,
+    "en": "Behar",
+    "he": "בהר",
+    "book_id": 3,
+    "start_chapter": 25,
+    "start_verse": 1,
+    "end_chapter": 26,
+    "end_verse": 2
+  },
+  {
+    "id": 33,
+    "en": "Bechukotai",
+    "he": "בחקתי",
+    "book_id": 3,
+    "start_chapter": 26,
+    "start_verse": 3,
+    "end_chapter": 27,
+    "end_verse": 34
+  },
+  {
+    "id": 34,
+    "en": "Bamidbar",
+    "he": "במדבר",
+    "book_id": 4,
+    "start_chapter": 1,
+    "start_verse": 1,
+    "end_chapter": 4,
+    "end_verse": 20
+  },
+  {
+    "id": 35,
+    "en": "Nasso",
+    "he": "נשא",
+    "book_id": 4,
+    "start_chapter": 4,
+    "start_verse": 21,
+    "end_chapter": 7,
+    "end_verse": 89
+  },
+  {
+    "id": 36,
+    "en": "Beha'alotcha",
+    "he": "בהעלתך",
+    "book_id": 4,
+    "start_chapter": 8,
+    "start_verse": 1,
+    "end_chapter": 12,
+    "end_verse": 16
+  },
+  {
+    "id": 37,
+    "en": "Sh'lach",
+    "he": "שלח",
+    "book_id": 4,
+    "start_chapter": 13,
+    "start_verse": 1,
+    "end_chapter": 15,
+    "end_verse": 41
+  },
+  {
+    "id": 38,
+    "en": "Korach",
+    "he": "קרח",
+    "book_id": 4,
+    "start_chapter": 16,
+    "start_verse": 1,
+    "end_chapter": 18,
+    "end_verse": 32
+  },
+  {
+    "id": 39,
+    "en": "Chukat",
+    "he": "חקת",
+    "book_id": 4,
+    "start_chapter": 19,
+    "start_verse": 1,
+    "end_chapter": 22,
+    "end_verse": 1
+  },
+  {
+    "id": 40,
+    "en": "Balak",
+    "he": "בלק",
+    "book_id": 4,
+    "start_chapter": 22,
+    "start_verse": 2,
+    "end_chapter": 25,
+    "end_verse": 9
+  },
+  {
+    "id": 41,
+    "en": "Pinchas",
+    "he": "פינחס",
+    "book_id": 4,
+    "start_chapter": 25,
+    "start_verse": 10,
+    "end_chapter": 30,
+    "end_verse": 1
+  },
+  {
+    "id": 42,
+    "en": "Matot",
+    "he": "מטות",
+    "book_id": 4,
+    "start_chapter": 30,
+    "start_verse": 2,
+    "end_chapter": 32,
+    "end_verse": 42
+  },
+  {
+    "id": 43,
+    "en": "Masei",
+    "he": "מסעי",
+    "book_id": 4,
+    "start_chapter": 33,
+    "start_verse": 1,
+    "end_chapter": 36,
+    "end_verse": 13
+  },
+  {
+    "id": 44,
+    "en": "Devarim",
+    "he": "דברים",
+    "book_id": 5,
+    "start_chapter": 1,
+    "start_verse": 1,
+    "end_chapter": 3,
+    "end_verse": 22
+  },
+  {
+    "id": 45,
+    "en": "Vaetchanan",
+    "he": "ואתחנן",
+    "book_id": 5,
+    "start_chapter": 3,
+    "start_verse": 23,
+    "end_chapter": 7,
+    "end_verse": 11
+  },
+  {
+    "id": 46,
+    "en": "Eikev",
+    "he": "עקב",
+    "book_id": 5,
+    "start_chapter": 7,
+    "start_verse": 12,
+    "end_chapter": 11,
+    "end_verse": 25
+  },
+  {
+    "id": 47,
+    "en": "Re'eh",
+    "he": "ראה",
+    "book_id": 5,
+    "start_chapter": 11,
+    "start_verse": 26,
+    "end_chapter": 16,
+    "end_verse": 17
+  },
+  {
+    "id": 48,
+    "en": "Shoftim",
+    "he": "שופטים",
+    "book_id": 5,
+    "start_chapter": 16,
+    "start_verse": 18,
+    "end_chapter": 21,
+    "end_verse": 9
+  },
+  {
+    "id": 49,
+    "en": "Ki Teitzei",
+    "he": "כי תצא",
+    "book_id": 5,
+    "start_chapter": 21,
+    "start_verse": 10,
+    "end_chapter": 25,
+    "end_verse": 19
+  },
+  {
+    "id": 50,
+    "en": "Ki Tavo",
+    "he": "כי תבוא",
+    "book_id": 5,
+    "start_chapter": 26,
+    "start_verse": 1,
+    "end_chapter": 29,
+    "end_verse": 8
+  },
+  {
+    "id": 51,
+    "en": "Nitzavim",
+    "he": "נצבים",
+    "book_id": 5,
+    "start_chapter": 29,
+    "start_verse": 9,
+    "end_chapter": 30,
+    "end_verse": 20
+  },
+  {
+    "id": 52,
+    "en": "Vayeilech",
+    "he": "וילך",
+    "book_id": 5,
+    "start_chapter": 31,
+    "start_verse": 1,
+    "end_chapter": 31,
+    "end_verse": 30
+  },
+  {
+    "id": 53,
+    "en": "Ha'azinu",
+    "he": "האזינו",
+    "book_id": 5,
+    "start_chapter": 32,
+    "start_verse": 1,
+    "end_chapter": 32,
+    "end_verse": 52
+  },
+  {
+    "id": 54,
+    "en": "Vezot Haberakhah",
+    "he": "וזאת הברכה",
+    "book_id": 5,
+    "start_chapter": 33,
+    "start_verse": 1,
+    "end_chapter": 34,
+    "end_verse": 12
+  }
+]

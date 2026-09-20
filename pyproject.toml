@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bibcount"
+version = "0.1.0"
+description = "Memory-efficient word index of the Hebrew Bible (Tanakh)"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = ["numpy>=1.26", "matplotlib>=3.8", "python-bidi>=0.4.2"]
+
+[project.scripts]
+bibcount = "bibcount.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+bibcount = ["data/*.json"]
